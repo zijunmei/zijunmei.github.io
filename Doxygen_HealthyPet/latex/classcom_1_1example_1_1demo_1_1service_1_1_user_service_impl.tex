@@ -1,0 +1,38 @@
+\hypertarget{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl}{}\doxysection{com.\+example.\+demo.\+service.\+User\+Service\+Impl Class Reference}
+\label{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl}\index{com.example.demo.service.UserServiceImpl@{com.example.demo.service.UserServiceImpl}}
+Inheritance diagram for com.\+example.\+demo.\+service.\+User\+Service\+Impl\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=3.000000cm]{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a0406c05a51a4e5a1240e2d8c2b425ffd}\label{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a0406c05a51a4e5a1240e2d8c2b425ffd}} 
+\mbox{\hyperlink{classcom_1_1example_1_1demo_1_1model_1_1_user}{User}} \mbox{\hyperlink{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a0406c05a51a4e5a1240e2d8c2b425ffd}{find\+By\+Email}} (String email)
+\begin{DoxyCompactList}\small\item\em find User entity object by submitting username as key word. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a687024855d87c41076d561b328381fde}\label{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a687024855d87c41076d561b328381fde}} 
+\mbox{\hyperlink{classcom_1_1example_1_1demo_1_1model_1_1_user}{User}} \mbox{\hyperlink{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a687024855d87c41076d561b328381fde}{save}} (\mbox{\hyperlink{classcom_1_1example_1_1demo_1_1web_1_1dto_1_1_user_registration_dto}{User\+Registration\+Dto}} registration)
+\begin{DoxyCompactList}\small\item\em save user registration information. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a7d87f9fb0b0dbe7a5db1f59ff9b2524a}\label{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a7d87f9fb0b0dbe7a5db1f59ff9b2524a}} 
+User\+Details \mbox{\hyperlink{classcom_1_1example_1_1demo_1_1service_1_1_user_service_impl_a7d87f9fb0b0dbe7a5db1f59ff9b2524a}{load\+User\+By\+Username}} (String email)  throws Username\+Not\+Found\+Exception 
+\begin{DoxyCompactList}\small\item\em Override the method from User\+Details\+Service. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+
+\begin{DoxyEnumerate}
+\item This class implements User\+Service.\+java interface thus it must implements all of interface\textquotesingle{}s methods
+\item User\+Service.\+java extends the User\+Details\+Service interface from Spring security
+\item The User\+Details\+Service interface will make this class also implements its methods.
+\item This class basically just fetch user data from Dto package which in this case User\+Dao interface
+\item As usual when @\+Autowired Spring will refer to the only one immediate implementation of the interface \begin{DoxyAuthor}{Author}
+zijun mei, yimin li 
+\end{DoxyAuthor}
+
+\end{DoxyEnumerate}
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/19837/\+Desktop/healthy-\/pets/src/main/java/com/example/demo/service/User\+Service\+Impl.\+java\end{DoxyCompactItemize}
