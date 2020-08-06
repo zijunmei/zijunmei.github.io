@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['getconfirmemail_5',['getConfirmEmail',['../classcom_1_1example_1_1demo_1_1web_1_1dto_1_1_user_registration_dto.html#aa854efec94c7b58b6494dea02decb093',1,'com::example::demo::web::dto::UserRegistrationDto']]],
+  ['getconfirmpassword_6',['getConfirmPassword',['../classcom_1_1example_1_1demo_1_1web_1_1dto_1_1_user_registration_dto.html#af773fffc51765eaad04ff6722bb33df4',1,'com::example::demo::web::dto::UserRegistrationDto']]],
+  ['getdate_7',['getDate',['../classcom_1_1example_1_1demo_1_1model_1_1_record.html#a89753e0ca889b11f7fca6f567c101dc8',1,'com::example::demo::model::Record']]],
+  ['getemail_8',['getEmail',['../classcom_1_1example_1_1demo_1_1model_1_1_user.html#a728ece60b0f5f93f2bfed39f22d58f80',1,'com.example.demo.model.User.getEmail()'],['../classcom_1_1example_1_1demo_1_1web_1_1dto_1_1_user_registration_dto.html#ac53058a6e6d3a784577923bf8be6c74f',1,'com.example.demo.web.dto.UserRegistrationDto.getEmail()']]],
+  ['getevent_9',['getEvent',['../classcom_1_1example_1_1demo_1_1model_1_1_record.html#a155ef90897b87e3007eb19c1cb518cea',1,'com::example::demo::model::Record']]],
+  ['getfirstname_10',['getFirstName',['../classcom_1_1example_1_1demo_1_1model_1_1_user.html#a6ee1ee74f4aa2bc7ec86c758f96eb60d',1,'com.example.demo.model.User.getFirstName()'],['../classcom_1_1example_1_1demo_1_1web_1_1dto_1_1_user_registration_dto.html#a72ef2f6715e040a67c64f44a12c3fb97',1,'com.example.demo.web.dto.UserRegistrationDto.getFirstName()']]],
+  ['getid_11',['getId',['../classcom_1_1example_1_1demo_1_1model_1_1_record.html#a3469ad1f8e5e167517eb80372e15099d',1,'com.example.demo.model.Record.getId()'],['../classcom_1_1example_1_1demo_1_1model_1_1_role.html#a39e52320b8fe319d10f2e1335cd50a7f',1,'com.example.demo.model.Role.getId()'],['../classcom_1_1example_1_1demo_1_1model_1_1_user.html#a6851023bbdb9904fb4b9a4c1f232b432',1,'com.example.demo.model.User.getId()']]],
+  ['getlastname_12',['getLastName',['../classcom_1_1example_1_1demo_1_1model_1_1_user.html#a27c96b1f6521cf0cfca828117dd9dd53',1,'com.example.demo.model.User.getLastName()'],['../classcom_1_1example_1_1demo_1_1web_1_1dto_1_1_user_registration_dto.html#ad7bf7469583a57f03cde83b45934db09',1,'com.example.demo.web.dto.UserRegistrationDto.getLastName()']]],
+  ['getname_13',['getName',['../classcom_1_1example_1_1demo_1_1model_1_1_record.html#af8b797fd13cd3c42a0e393e70a701b1b',1,'com.example.demo.model.Record.getName()'],['../classcom_1_1example_1_1demo_1_1model_1_1_role.html#a85be7749da873bc1f44e8570eb3c85ca',1,'com.example.demo.model.Role.getName()']]],
+  ['getpassword_14',['getPassword',['../classcom_1_1example_1_1demo_1_1model_1_1_user.html#aeeab5419dad11b50989f1362be9251bb',1,'com.example.demo.model.User.getPassword()'],['../classcom_1_1example_1_1demo_1_1web_1_1dto_1_1_user_registration_dto.html#a45c55d9e92cf927a91fe85ec4d4806f1',1,'com.example.demo.web.dto.UserRegistrationDto.getPassword()']]],
+  ['getroles_15',['getRoles',['../classcom_1_1example_1_1demo_1_1model_1_1_user.html#a451ce69f12f3f1004ce3355c33787eff',1,'com::example::demo::model::User']]],
+  ['getspecies_16',['getSpecies',['../classcom_1_1example_1_1demo_1_1model_1_1_record.html#a48063406d03551a11d3a2c333bbdd8b0',1,'com::example::demo::model::Record']]],
+  ['getstatus_17',['getStatus',['../classcom_1_1example_1_1demo_1_1model_1_1_record.html#a083a6d0f8b4d0a09323437088946d6a2',1,'com::example::demo::model::Record']]],
+  ['getterms_18',['getTerms',['../classcom_1_1example_1_1demo_1_1web_1_1dto_1_1_user_registration_dto.html#ae5ce2cb37c262d9a8724f7d9c51174e7',1,'com::example::demo::web::dto::UserRegistrationDto']]],
+  ['getting_20started_19',['Getting Started',['../md__c_1__users_19837__desktop_healthy-pets__h_e_l_p.html',1,'']]]
+];
